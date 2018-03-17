@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/faculdade/estrutura-de-dados-2/pilha-generica/main.cpp
+iostream
+-
+pilha.h
+D:/faculdade/estrutura-de-dados-2/pilha-generica/pilha.h
+
+D:/faculdade/estrutura-de-dados-2/pilha-generica/pilha.h
+iostream
+-
+deque
+-
+
